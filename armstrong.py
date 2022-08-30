@@ -9,6 +9,6 @@ while(num !=0 ):
     num = num // 10
 
 if(sum == sum1):
-    print("The number is armstrong")
+    print("The number is",sum, "armstrong")
 else:
     print("The number is",sum, "not am armstrong number")
